@@ -1,0 +1,5 @@
+C:\Users\staxa\Desktop\01CSHARP\Lesson2\01CSHARP\Lesson2\obj\Debug\net8.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staxa\Desktop\01CSHARP\Lesson2\01CSHARP\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\Lesson2\01CSHARP\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfo.cs
+C:\Users\staxa\Desktop\01CSHARP\Lesson2\01CSHARP\Lesson2\obj\Debug\net8.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\Lesson2\01CSHARP\Lesson2\obj\Debug\net8.0\Lesson2.sourcelink.json
