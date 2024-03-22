@@ -1,0 +1,15 @@
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\bin\Debug\net8.0\Tasc2.exe
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\bin\Debug\net8.0\Tasc2.deps.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\bin\Debug\net8.0\Tasc2.runtimeconfig.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\bin\Debug\net8.0\Tasc2.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\bin\Debug\net8.0\Tasc2.pdb
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.AssemblyInfoInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.AssemblyInfo.cs
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.csproj.CoreCompileInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.sourcelink.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\refint\Tasc2.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.pdb
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\Tasc2.genruntimeconfig.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson3\Tasc2\obj\Debug\net8.0\ref\Tasc2.dll
