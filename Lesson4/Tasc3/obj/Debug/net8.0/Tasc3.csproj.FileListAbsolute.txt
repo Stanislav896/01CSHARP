@@ -1,0 +1,15 @@
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.AssemblyInfoInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.AssemblyInfo.cs
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.csproj.CoreCompileInputs.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.sourcelink.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\bin\Debug\net8.0\Tasc3.exe
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\bin\Debug\net8.0\Tasc3.deps.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\bin\Debug\net8.0\Tasc3.runtimeconfig.json
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\bin\Debug\net8.0\Tasc3.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\bin\Debug\net8.0\Tasc3.pdb
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\refint\Tasc3.dll
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.pdb
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\Tasc3.genruntimeconfig.cache
+C:\Users\staxa\Desktop\01CSHARP\01CSHARP\Lesson4\Tasc3\obj\Debug\net8.0\ref\Tasc3.dll
